@@ -1,0 +1,22 @@
+IG_UI_FR = {
+	IGUI_VehicleName93mustangSSP = "'93 Ford Mustang SSP",
+	IGUI_VehicleName93mustangSSPpd = "'93 Ford Mustang SSP Police",
+	IGUI_VehicleName93mustangSSPksp = "'93 Ford Mustang SSP Police d'état Kentucky",
+	IGUI_VehicleName93mustangSSPunmarked = "'93 Ford Mustang SSP Non sérigraphiée",
+
+	IGUI_VehiclePartSSP93BumperFront = "Pare-chocs avant",
+	IGUI_VehiclePartSSP93BumperRear = "Pare-chocs arrière",
+	IGUI_VehiclePartSSP93SpareTire = "Roue de secours",
+
+	IGUI_VehiclePartSSP93WindshieldArmor = "Blindage de Pare-brise",
+	IGUI_VehiclePartSSP93WindshieldRearArmor = "Blindage de Pare-brise arrière",
+	IGUI_VehiclePartSSP93WindowFrontLeftArmor = "Blindage de Vitre avant gauche",
+	IGUI_VehiclePartSSP93WindowFrontRightArmor = "Blindage de Vitre avant droite",
+	IGUI_VehiclePartSSP93WindowRearLeftArmor = "Blindage de Vitre arrière gauche",
+	IGUI_VehiclePartSSP93WindowRearRightArmor = "Blindage de Vitre arrière droite",
+
+	IGUI_VehiclePartSSP93Trunk = "Coffre",
+	IGUI_VehiclePartSSP93Gunrack = "Porte-armes",
+
+	IGUI_CraftCategory_SSP93 = "'93 Ford Mustang SSP",
+}
