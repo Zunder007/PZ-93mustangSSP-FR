@@ -1,0 +1,12 @@
+Recipes_FR = {
+	Recipe_Make_SSP93_Front_Side_Window = "Fabriquer Vitre latérale avant",
+	Recipe_Make_SSP93_Front_Window_Armor = "Fabriquer Blindage de Vitre avant",
+	Recipe_Make_SSP93_Push_Bumper = "Fabriquer Pare-chocs d'interception",
+	Recipe_Make_SSP93_Rear_Side_Window = "Fabriquer Vitre latérale arrière",
+	Recipe_Make_SSP93_Rear_Window_Armor = "Fabriquer Blindage de Vitre arrière",
+	Recipe_Make_SSP93_Rear_Windshield = "Fabriquer Pare-brise arrière",
+	Recipe_Make_SSP93_Rear_Windshield_Armor = "Fabriquer Blindage de Pare-brise arrière",
+	Recipe_Make_SSP93_Tire = "Fabriquer Pneu",
+	Recipe_Make_SSP93_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_SSP93_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
+}
