@@ -3,6 +3,7 @@ IG_UI_FR = {
 	IGUI_VehicleName93mustangSSPpd = "'93 Ford Mustang SSP Police",
 	IGUI_VehicleName93mustangSSPksp = "'93 Ford Mustang SSP Police d'état Kentucky",
 	IGUI_VehicleName93mustangSSPunmarked = "'93 Ford Mustang SSP Non sérigraphiée",
+	IGUI_VehicleName93mustangSSPkspCol = "'93 Ford Mustang SSP Spécial du Colonel",
 
 	IGUI_VehiclePartSSP93BumperFront = "Pare-chocs avant",
 	IGUI_VehiclePartSSP93BumperRear = "Pare-chocs arrière",
