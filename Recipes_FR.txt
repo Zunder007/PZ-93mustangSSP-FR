@@ -16,4 +16,17 @@ Recipes_FR = {
 	Recipe_Dismantle_Mustang_SSP_Seat = "Démonter Siège",
 	Recipe_Dismantle_Mustang_SSP_Tire = "Démonter Pneu",
 	Recipe_Make_Vehicle_Reinforced_Bumper = "Fabriquer Pare-chocs",
+
+	Recipe_Dismantle_93_Ford_Mustang_SSP_Armor = "Démonter Blindage",
+	Recipe_Dismantle_93_Ford_Mustang_SSP_Door = "Démonter Portière",
+	Recipe_Dismantle_93_Ford_Mustang_SSP_Lid = "Démonter Coffre",
+	Recipe_Dismantle_93_Ford_Mustang_SSP_Seat = "Démonter Siège",
+	Recipe_Dismantle_93_Ford_Mustang_SSP_Tire = "Démonter Pneu",
+	Recipe_Make_93_Ford_Mustang_SSP_Front_Window_Armor = "Fabriquer Blindage de Vitre avant",
+	Recipe_Make_93_Ford_Mustang_SSP_Rear_Window_Armor = "Fabriquer Blindage de Vitre arrière",
+	Recipe_Make_93_Ford_Mustang_SSP_Rear_Windshield_Armor = "Fabriquer Blindage de Pare-brise arrière",
+	Recipe_Make_93_Ford_Mustang_SSP_Reinforced_Bumper = "Fabriquer Pare-chocs renforcé",
+	Recipe_Make_93_Ford_Mustang_SSP_Tire = "Fabriquer Pneu",
+	Recipe_Make_93_Ford_Mustang_SSP_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
+	Recipe_Repair_93_Ford_Mustang_SSP_Tire = "Réparer Pneu",
 }
